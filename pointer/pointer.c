@@ -174,7 +174,10 @@ int main() {
     printf("Updated Value = %c\n", ch);
     return 0;
 }
-Use code with caution.8. Change Double (15.5 to 30.5)c#include <stdio.h>
+
+8. Change Double (15.5 to 30.5)
+
+#include <stdio.h>
 
 int main() {
     double num = 15.5;
